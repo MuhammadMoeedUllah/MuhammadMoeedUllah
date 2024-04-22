@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="30" height="30" />
   <h3 align="center"><strong>Moeed — Senior Software Engineer</strong></h3>
   <p align="center">
-    <a href="http://moeedcode.com" target="_blank">Visit my portfolio 🌐</a>
+    <a href="https://moeedcodes.com" target="_blank">Visit my portfolio 🌐</a>
   </p>
 </p>
 
